@@ -1,0 +1,205 @@
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;
+ text-decoration:none;
+ }
+ 
+ .container{
+		width:80%;
+		
+		margin:auto;
+ }
+ 
+ .border{
+		border:1px solid red;
+		padding:0 4px;
+ }
+ 
+ 
+
+ 
+
+ .btn-div{
+		padding-top:10px;
+		padding-left:30px;
+		
+ }
+ 
+ .img-col1{
+		width:10%;
+		padding-top:25px;
+ }
+  .img-col1 .img1{
+		width:100%;
+		
+  }
+  .img-col2{
+		width:90%;
+		padding:20px;
+		
+  }
+  .img-col2 .col-img{
+		width:90%;
+		padding-left:50px;
+		
+  }
+  
+   .col-1 {
+		display:flex;
+   }
+   
+ 
+   
+   .meesho{
+		color:pink;
+   }
+   
+   .size{
+		display:inline-block;
+		width:10%;
+		border:1px solid black;
+		color:black;
+		border-radius:30px;
+		font-size:12px;
+		padding:3px;
+		text-align:center;
+   
+   }
+   
+   .shop{
+		border:1px solid #9F2089;
+		border-radius:6px;
+		padding:10px 18px;
+		
+   }
+   
+   .shop-img{
+		width:50px;
+   }
+   .shop-div{
+		width:100%;
+		display:flex;
+		align-items:center;
+   }
+	
+   
+   .shop-div span{
+		padding-bottom:20px;
+  
+  }
+  
+  .btn{
+		border:1px solid black;
+		padding:10px 50px;
+		border-radius:8px;
+	
+  }
+    .btn1{
+		border:1px solid rgb(231,60,177);
+		background:rgb(231,60,177);
+		
+		border-radius:8px;
+  }
+  .similar{
+		padding-top:50px;
+  }
+  
+  .smal-images{
+		display:flex;
+		width:20%;
+		
+  }
+   .smal-images img{
+		width:100%;
+		padding:5px;
+   }
+   
+   
+   .col-2 h5{
+		color:gray;
+		padding-top:20px;
+		padding-bottom:20px;
+   }
+   .col-2 h2{
+		padding-bottom:10px;
+   }
+	.line-div{
+			padding-bottom:30px;
+	}
+	.free{
+			color:gray;
+			font-size:13px;
+	}
+	
+	.select{
+			padding:10px;
+	}
+	
+	.product{
+			padding-top:40px;
+			padding-bottom:20px;
+	}		
+	
+.meesho-para{
+		font-size:15px;
+		color:gray;
+}	
+  
+ .sold{
+		padding:20px;
+ } 
+ 
+ .border-2{
+		border:1px solid red;
+ }
+ 
+ .shop-div{
+		padding-bottom:20px;
+ }
+ 
+
+    
+.flex{
+	display:flex;
+}
+.flex p{
+		padding:0 10px;
+}
+.flex span{
+		color:gray;
+}	
+
+.shop-div img{
+		width:30px;
+}
+.shop-div span{
+	padding:0 10px;
+}
+
+.fa-chevron-left,.fa-chevron-left{
+	color:pink;
+}
+
+.btn{color:black;}
+.btn1{color:white;}
+
+
+
+.meesho img{
+		width:50px;
+}
+.meesho{
+		padding-left:10px;
+		
+}
+.meesho {
+		color:pink;
+}
+
+.dot{
+		color:white;
+}
+
+.blue{
+		color:#6F90CA;
+}
